@@ -1,0 +1,5 @@
+home
+http://localhost:3000/
+
+resources
+http://localhost:3000/perfil
